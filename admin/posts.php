@@ -34,6 +34,7 @@
             include "includes/view_all_posts.php";
           }
 
+
           ?>
 
         </div>
